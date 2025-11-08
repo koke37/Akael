@@ -1,0 +1,34 @@
+[
+  {
+    "name": "AKAEL Retail Hub – Lagos",
+    "summary": "Our flagship retail store offering a curated selection of everyday essentials, designed for convenience and quality shopping experiences.",
+    "tags": [
+      "Retail", "Shopping", "Flagship", "Lagos"
+   
+    ]
+  },
+  {
+    "name": "AKAEL Bistro – Abuja",
+    "summary": "A cozy dining space where great food meets warm hospitality, creating a home-like atmosphere for our guests.",
+    "tags": [
+      "Dining", "Bistro", "Hospitality", "Abuja", "Food"
+    
+    ]
+  },
+  {
+    "name": "AKAEL Community Service Center – Port Harcourt",
+    "summary": "A hub for essential services that cater to the daily needs of our community, ensuring reliability and convenience.",
+    "tags": [
+      "Community", "Service", "Port Harcourt", "Convenience"
+    
+    ]
+  },
+  {
+    "name": "AKAEL Event Space – Enugu",
+    "summary": "A versatile venue for events and gatherings, designed to foster connections and celebrate life's moments.",
+    "tags": [
+      "Events", "Lifestyle", "Enugu", "Venue", "Celebration"
+    
+    ]
+  }
+]

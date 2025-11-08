@@ -1,0 +1,54 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { scroll-behavior: smooth; }
+
+/* helper classes */
+.container-px { @apply px-4 sm:px-6 lg:px-8; }
+.section { @apply container-px py-20 sm:py-24; }
+
+/* Navbar blur background */
+.nav-blur { backdrop-filter: saturate(180%) blur(6px); }
+
+/* Swiper Navigation Arrows */
+.swiper-button-next,
+.swiper-button-prev {
+  @apply text-gray-700 bg-gray-200 rounded-full p-2 hover:bg-gray-300;
+  width: 40px;
+  height: 40px;
+}
+
+/* Swiper Pagination Dots */
+.swiper-pagination-bullet {
+  @apply bg-gray-400;
+}
+
+.swiper-pagination-bullet-active {
+  @apply bg-gray-700;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.8s ease-in-out forwards;
+}
+
+.delay-200 {
+  animation-delay: 0.2s;
+}
+
+@layer components {
+  .section {
+    @apply max-w-7xl mx-auto px-4 md:px-8 py-12;
+  }
+}

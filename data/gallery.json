@@ -1,0 +1,42 @@
+[
+  {
+    "src": "https://picsum.photos/seed/gal1/800/600",
+    "alt": "Team collaboration",
+    "caption": "Our team working together to deliver excellence"
+  },
+  {
+    "src": "https://picsum.photos/seed/gal2/800/600",
+    "alt": "Network rack",
+    "caption": "Reliable IT infrastructure for seamless operations"
+  },
+  {
+    "src": "https://picsum.photos/seed/gal3/800/600",
+    "alt": "Retail store exterior",
+    "caption": "Welcoming storefront that reflects our brand"
+  },
+  {
+    "src": "https://picsum.photos/seed/gal4/800/600",
+    "alt": "Retail store interior",
+    "caption": "Modern retail space designed for customer comfort"
+  },
+  {
+    "src": "https://picsum.photos/seed/gal5/800/600",
+    "alt": "Retail store",
+    "caption": "A trusted shopping destination for everyday needs"
+  },
+  {
+    "src": "https://picsum.photos/seed/gal6/800/600",
+    "alt": "Dining area",
+    "caption": "Cozy dining experience with delicious meals"
+  },
+  {
+    "src": "https://picsum.photos/seed/gal7/800/600",
+    "alt": "Community service hub",
+    "caption": "Service hub dedicated to solving daily challenges"
+  },
+  {
+    "src": "https://picsum.photos/seed/gal8/800/600",
+    "alt": "Event space",
+    "caption": "Vibrant event space for celebrations and gatherings"
+  }
+]
