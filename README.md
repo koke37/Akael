@@ -47,3 +47,4 @@ npm start
 ## Notes
 - Replace placeholder images and copy with your brand assets.
 - Consider swapping the slider for a library (e.g., Embla) if you want touch momentum & more features.
+"# Akael" 

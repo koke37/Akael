@@ -1,5 +1,5 @@
 
-import { NextResponse } from 'next/server'
+/*import { NextResponse } from 'next/server'
 import { dbConnect } from '@/lib/mongodb'
 import fs from 'fs/promises'
 import path from 'path'
@@ -15,4 +15,4 @@ export async function GET() {
   const file = path.join(process.cwd(), 'data', 'testimonials.json')
   const raw = await fs.readFile(file, 'utf-8')
   return NextResponse.json(JSON.parse(raw))
-}
+}*/
