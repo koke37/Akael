@@ -1,1 +1,11 @@
-[00:00:01.305] Server  LOG      ✓ Ready in 827ms
+[00:00:01.310] Server  LOG      ✓ Ready in 827ms
+[00:00:11.287] Server  ERROR    ⨯ Error: Image Optimization using the default loader is not compatible with `{ output: 'export' }`.
+  Possible solutions:
+    - Remove `{ output: 'export' }` and run "next start" to run server mode including the Image Optimization API.
+    - Configure `{ images: { unoptimized: true } }` in `next.config.js` to disable the Image Optimization API.
+  Read more: https://nextjs.org/docs/messages/export-image-api
+[00:00:11.817] Browser ERROR   uncaughtError: Error: Image Optimization using the default loader is not compatible with `{ output: 'export' }`.
+  Possible solutions:
+    - Remove `{ output: 'export' }` and run "next start" to run server mode including the Image Optimization API.
+    - Configure `{ images: { unoptimized: true } }` in `next.config.js` to disable the Image Optimization API.
+  Read more: https://nextjs.org/docs/messages/export-image-api
